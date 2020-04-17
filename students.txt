@@ -1,0 +1,5 @@
+number of student : 1      name of student : ahmad      number of book take : 1        state of student : yes   pay : yes 
+number of student : 2      name of student : salem      number of book take : 0        state of student : non   pay : no 
+number of student : 3      name of student : khaled      number of book take : 0        state of student : non   pay : no 
+number of student : 4      name of student : faez      number of book take : 3        state of student : yes   pay : no 
+number of student : 5      name of student : sami      number of book take : 2        state of student : yes   pay : no 
